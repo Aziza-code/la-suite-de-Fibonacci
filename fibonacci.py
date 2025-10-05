@@ -13,4 +13,5 @@ def fib(n):
             U1=U
             i+=1
     return U
-print(fib(6))
+n=6
+print(fib(n))
